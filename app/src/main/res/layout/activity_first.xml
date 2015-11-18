@@ -27,6 +27,8 @@
         android:layout_height="wrap_content"
         android:background="@color/color_blue"
         android:text="Insert"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
         android:textColor="@color/color_white"
         android:textStyle="bold"
         />
@@ -36,6 +38,8 @@
         android:layout_height="wrap_content"
         android:background="@color/color_blue"
         android:text="Update"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
         android:textColor="@color/color_white"
         android:textStyle="bold" />
     <Button
@@ -44,6 +48,8 @@
         android:layout_height="wrap_content"
         android:background="@color/color_blue"
         android:text="Delete"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
         android:textColor="@color/color_white"
         android:textStyle="bold"
         />
@@ -53,6 +59,8 @@
         android:layout_height="wrap_content"
         android:background="@color/color_blue"
         android:text="Query"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
         android:textColor="@color/color_white"
         android:textStyle="bold"
         />
